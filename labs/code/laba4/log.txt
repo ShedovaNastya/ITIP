@@ -1,0 +1,5 @@
+Вызвано исключение : CustomInputMismatchException: Ошибка при вводе: cтрока 45hh не является числом  
+Вызвано исключение : CustomInputMismatchException: Ошибка при вводе: cтрока 678hjk не является числом  
+Вызвано исключение : CustomInputMismatchException: Ошибка при вводе: cтрока dfghjk не является числом  
+Вызвано исключение : CustomInputMismatchException: Ошибка при вводе: cтрока tgyhujk не является числом  
+Вызвано исключение : CustomInputMismatchException: Ошибка при вводе: cтрока dfrgtyhui не является числом  
